@@ -1,3 +1,4 @@
 api_keys.sh
 *.pkl
 barbutler/*.pkl
+barbutler/__pycache__
