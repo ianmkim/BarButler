@@ -1,0 +1,5 @@
+START    = 0
+CHOOSING = 1
+MOVIE    = 2
+TASTE    = 3
+FOLLOWUP = 4
