@@ -5,10 +5,10 @@ But what if you're not pretentious enough to know how to describe the taste? No 
 
 ## Usage
 Getting a whiskey recommendation from a movie.
-![alt text](https://github.com/ianmkim/BarButler/blob/master/img/movie.jpg?raw=true)
+![alt text](https://github.com/ianmkim/BarButler/blob/master/img/movie.png?raw=true)
 
 Getting a whiskey recommendation from tasting notes.
-![alt text](https://github.com/ianmkim/BarButler/blob/master/img/taste.jpg?raw=true)
+![alt text](https://github.com/ianmkim/BarButler/blob/master/img/taste.png?raw=true)
 
 Again, for either modes of operation, the user can talk to the bot in 100% pure natural language. GPT-3 will automatically extract words of interest in either scenario.
 
