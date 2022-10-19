@@ -3,6 +3,17 @@ There are thousands upon thousands of whiskies on the market with over ~50 diffe
 
 But what if you're not pretentious enough to know how to describe the taste? No matter, you can also express to the bot using natural language, what movie you're planning to pair the whiskey with. The bot will automatically retrieve the plot of the movie, perform emotion sentiment analysis, find the most semantically similar tasting notes, and recommend a whiskey to you without you even having to understand what tasting notes are.
 
+## Usage
+Getting a whiskey recommendation from a movie.
+![alt text](https://github.com/ianmkim/BarButler/blob/master/img/movie.jpg?raw=true)
+
+Getting a whiskey recommendation from tasting notes.
+![alt text](https://github.com/ianmkim/BarButler/blob/master/img/taste.jpg?raw=true)
+
+Again, for either modes of operation, the user can talk to the bot in 100% pure natural language. GPT-3 will automatically extract words of interest in either scenario.
+
+Then we use transformer embeddings of tasting notes or descriptions of movies
+in order to find whiskies with similar taste/mood.
 
 ## Project Structure
 ```
